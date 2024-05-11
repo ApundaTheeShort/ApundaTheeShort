@@ -2,7 +2,7 @@
 
  I’m a passionate computer science student on a journey to realize the depths of technology and innovation. 🚀
  
-🎓 Currently pursuing my degree in Computer Science, currently into web development as an interest 💻.
+🎓 Currently pursuing my degree in Computer Science, intrested in web development as an interest 💻.
 
 I am currently learning with the help of Power Learn Project (PLP) 🎓.
 
