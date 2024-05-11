@@ -1,11 +1,11 @@
 ### Hi there 👋 And welcome,
 
- I’m a passionate computer science student on a journey to realize the depths of technology and innovation. 🚀
-🎓 Currently pursuing my degree in Computer Science, currently into web development as an interest 💻
-I am currently learning with the help of Power Learn Project (PLP) 🎓.
-🌱 Outside of coding, I enjoy cycling and video gaming, and I firmly believe in maintaining a balance between work and play.
-📫 Want to connect? Reach out via email at apundawyclife333@gmail.com
-Let's code, innovate, and make a difference together! 💡
+- I’m a passionate computer science student on a journey to realize the depths of technology and innovation. 🚀
+-🎓 Currently pursuing my degree in Computer Science, currently into web development as an interest 💻.
+-I am currently learning with the help of Power Learn Project (PLP) 🎓.
+-🌱 Outside of coding, I enjoy cycling and video gaming, and I firmly believe in maintaining a balance between work and play.
+-📫 Want to connect? Reach out via email at apundawyclife333@gmail.com.
+-Let's code, innovate, and make a difference together! 💡
 
 <!--
 **ApundaTheeShort/ApundaTheeShort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
